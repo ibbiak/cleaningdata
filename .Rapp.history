@@ -1,0 +1,22 @@
+cube <- function(x, n){}
+cube <- function(x, n){x^3}
+cube(3)
+f <- function(x){g<-function(y) {y +z} z<-4}
+f <- function(x){g<-function(y) {y + z} z<-4 x + g(x)}
+f <- function(x){g<-function(y){
+y + z}
+z <- 4
+x + g(x)
+}
+z <-10
+f(3)
+source("/Users/ibbiak/Desktop/Getting and Cleaning Data/run_analysis.R")
+tidydata
+source("/Users/ibbiak/Desktop/Getting and Cleaning Data/run_analysis.R")
+source("/Users/ibbiak/Desktop/Getting and Cleaning Data/run_analysis.R")
+source("/Users/ibbiak/Desktop/Getting and Cleaning Data/run_analysis.R")
+source("/Users/ibbiak/Desktop/Getting and Cleaning Data/run_analysis.R")
+source("/Users/ibbiak/Desktop/Getting and Cleaning Data/run_analysis.R")
+source("/Users/ibbiak/Desktop/Getting and Cleaning Data/run_analysis.R")
+source("/Users/ibbiak/Desktop/Getting and Cleaning Data/run_analysis.R")
+source("/Users/ibbiak/Desktop/Getting and Cleaning Data/run_analysis.R")
